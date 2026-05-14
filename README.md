@@ -24,13 +24,8 @@ Unicode text transformer for bios, usernames, and social profiles.
 
 ## Usage
 
-Open `index.html` in any modern browser. No build step, no dependencies, no server required.
+Open `achickonweb.github.io/FancyTextStudio` in any modern browser. No build step, no dependencies, no server required.
 
-```
-git clone https://github.com/yourname/fancy-text-studio
-cd fancy-text-studio
-open index.html
-```
 
 ## Stack
 
